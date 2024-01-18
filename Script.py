@@ -8,17 +8,15 @@ Btw, I can also Provide Movies for everyone, You Just Gotta Add me in your Group
     
     HELP_TXT = "Hey {}\nThere you go with the help commands 👾"
 
-    ABOUT_TXT = """<b>✯ Ore no Nawa: {}
-✯ Owner: <a herf=https://t.me/xenov7x>Xenov</a>
-✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
+    ABOUT_TXT = """<b>✯ Owner: <a herf=https://t.me/xenov7x>Xenov</a>
 ✯ Database: Mongo-DB
 ✯ Hosted on: Heroku
-✯ Version: Paradox-Bot Ver 2.0 </b>"""
+✯ Version: Paradox-Bot Ver 2.0</b>"""
    
-    SOURCE_TXT = """<b>NOTE:</b>
+    SOURCE_TXT = """NOTE:
 <blockquote>- Source Code › : This Project is not an open-source, and I don't have ownership over all its components.</blockquote>
 
-<blockquote>Creator: <a herf=https://t.me/xenov7x>The Unemployed One</a></blockquote>"""
+Creator: <a herf="https://t.me/xenov7x">The Unemployed One</a>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
