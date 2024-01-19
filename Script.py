@@ -1,14 +1,13 @@
 class script(object):  
     START_TXT = """<b>❄️ Hey There!! {user}
 
-Myself {bot} is here to help you Find The Movie or Series you Desire to Watch 😎.
-You can either Use the Search Button below or just send any Movie/Series Name to get it
+Myself {bot} is here to help you Find The Movie or Series you Desire to Watch.
 
-Btw, I can also Provide Movies for everyone, You Just Gotta Add me in your Group for that</b>"""
+» Just add me to a group and type Movie or Series Name 🥂, and let the magic happen</b>"""
     
     HELP_TXT = "Hey {}\nThere you go with the help commands 👾"
 
-    ABOUT_TXT = """<b>✯ Owner: <a herf=https://t.me/xenov7x>Xenov</a>
+    ABOUT_TXT = """<b>✯ Owner: @Xenov7x
 ✯ Database: Mongo-DB
 ✯ Hosted on: Heroku
 ✯ Version: Paradox-Bot Ver 2.0</b>"""
@@ -16,7 +15,7 @@ Btw, I can also Provide Movies for everyone, You Just Gotta Add me in your Group
     SOURCE_TXT = """NOTE:
 <blockquote>- Source Code › : This Project is not an open-source, and I don't have ownership over all its components.</blockquote>
 
-Creator: <a herf="https://t.me/xenov7x">The Unemployed One</a>"""
+Creator: @Xenov7x"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
