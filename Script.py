@@ -7,15 +7,15 @@ Myself {bot} is here to help you Find The Movie or Series you Desire to Watch.
     
     HELP_TXT = "Hey {}\nThere you go with the help commands 👾"
 
-    ABOUT_TXT = """<b>✯ Owner: @Xenov7x
+    ABOUT_TXT = """<b>✯ Owner: @Notmoviebuff
 ✯ Database: Mongo-DB
 ✯ Hosted on: Heroku
-✯ Version: Paradox-Bot Ver 2.0</b>"""
+✯ Version: MovieBuff Autofilter Ver 2.0</b>"""
    
     SOURCE_TXT = """NOTE:
 <blockquote>- Source Code › : This Project is not an open-source, and I don't have ownership over all its components.</blockquote>
 
-Creator: @Xenov7x"""
+Creator: @Notmoviebuff"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
