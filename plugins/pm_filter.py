@@ -50,7 +50,7 @@ async def pm_next_page(bot, query):
             btn = [[InlineKeyboardButton(text=f"{file.file_name}", callback_data=f'pmfile#{file.file_id}'),
                     InlineKeyboardButton(text=f"{get_size(file.file_size)}", callback_data=f'pmfile#{file.file_id}')] for file in files ]
 
-    btn.insert(0, [InlineKeyboardButton("Click on your Desired Button of Movie 👇", url=f"http://t.me/paradox_chatz_group")])
+    btn.insert(0, [InlineKeyboardButton("🔽 ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔽", url=f"https://t.me/+9NDSx_RIauIzY2E0")])
     if 0 < offset <= 10: off_set = 0
     elif offset == 0: off_set = None
     else: off_set = offset - 10
@@ -124,7 +124,7 @@ async def pm_AutoFilter(client, msg, pmspoll=False):
             btn = [[InlineKeyboardButton(text=f"{file.file_name}", callback_data=f'{pre}#{req}#{file.file_id}'),
                     InlineKeyboardButton(text=f"{get_size(file.file_size)}", callback_data=f'{pre}#{file.file_id}')] for file in files ]    
 
-    btn.insert(0, [InlineKeyboardButton("Click on your Desired Button of Movie 👇", url=f"http://t.me/paradox_chatz_group")])
+    btn.insert(0, [InlineKeyboardButton("🔽 ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔽", url=f"https://t.me/+9NDSx_RIauIzY2E0")])
     if offset != "":
         key = f"{message.id}"
         temp.PM_BUTTONS[key] = search
